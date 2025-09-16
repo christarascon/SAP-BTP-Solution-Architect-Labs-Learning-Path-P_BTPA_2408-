@@ -16,9 +16,8 @@ A comprehensive learning repository for SAP Business Technology Platform (BTP) S
 - [Hands-on Labs](5-hands-on-labs.md)
 - [Practice Scenarios](6-practice-scenarios.md)
 - [Community](7-community.md)
-- [Contributing](8-contributing.md)
-- [Exam Success Metrics](9-exam-success-metrics.md)
-- [Career Path & Next Steps](10-career-path-next-steps.md)
+- [Exam Success Metrics](8-exam-success-metrics.md)
+- [Career Path & Next Steps](9-career-path-next-steps.md)
 
 ## 📖 Resources & References
 
