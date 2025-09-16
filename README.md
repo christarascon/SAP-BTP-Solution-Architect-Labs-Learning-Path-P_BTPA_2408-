@@ -13,11 +13,12 @@ A comprehensive learning repository for SAP Business Technology Platform (BTP) S
 - [Prerequisites](2-prerequisites.md)
 - [Learning Path](3-learning-path.md)
 - [Certification Exam Details](4-certification-exam-details.md)
-- [Solution Architecture Deep Dive](5-solution-architecture-deep-dive.md)
-- [Hands-on Labs](6-hands-on-labs.md)
-- [Practice Scenarios](7-practice-scenarios.md)
-- [Community](8-community.md)
-- [Contributing](9-contributing.md)
+- [Hands-on Labs](5-hands-on-labs.md)
+- [Practice Scenarios](6-practice-scenarios.md)
+- [Community](7-community.md)
+- [Contributing](8-contributing.md)
+- [Exam Success Metrics](9-exam-success-metrics.md)
+- [Career Path & Next Steps](10-career-path-next-steps.md)
 
 ## 📖 Resources & References
 
